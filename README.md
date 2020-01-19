@@ -72,3 +72,13 @@ Deploy the contents of the ./dapp folder
 - [ ] Oracle Initialization
 - [ ] Oracle Updates
 - [ ] Oracle Functionality
+
+
+## Versions
+
+This code was created with the following versions of tools:
+
+* Truffle v5.0.1
+* Solidity v0.4.25
+* Node v8.9.4
+* Ganache v2.9.1
